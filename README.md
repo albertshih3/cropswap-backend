@@ -1,2 +1,2 @@
-# hackmerced-api
- 
+# cropswap-backend
+This is the backend server for our HackMerced IX project 'Cropswap'. For our main project we used MongoDB as a database, however we quickly realized that it was not possible to connect directly to the database through a browser and instead we needed a proxy server to grab the data instead. This server was created to be the proxy server which pulls data from the database and sends it to our website.
